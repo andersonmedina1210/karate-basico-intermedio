@@ -1,5 +1,5 @@
 @karate-test
-Feature: plan de pruebas
+Feature: plan de pruebasss
 
   Scenario: caso de prueba tipo GET
     Given url 'https://reqres.in/api/users/2'
